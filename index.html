@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="作品制作のための自然環境の調査記録。海水採取候補地を国・地域から検索できます。">
+  <title>Field Research Archive</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="context">光、空気、海、土を手元にするプロジェクト</p>
+      <h1 lang="en">Field Research Archive</h1>
+      <p class="intro">作品制作のために、水辺の位置とアクセス、採水に必要な確認事項を記録する。</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <section aria-labelledby="campaign-title" class="campaigns">
+      <h2 id="campaign-title">調査の範囲</h2>
+      <ul id="campaigns"></ul>
+    </section>
+    <section aria-labelledby="results-title">
+      <div class="section-heading">
+        <h2 id="results-title">地点を探す</h2>
+        <div class="exports">
+          <button id="json" type="button" disabled>JSON</button>
+          <button id="csv" type="button" disabled>CSV</button>
+        </div>
+      </div>
+      <form id="filters" role="search">
+        <label class="keyword">キーワード
+          <input id="q" type="search" placeholder="地点名、市区町村、地点IDなど" disabled>
+        </label>
+        <label>調査範囲<select id="campaign" disabled></select></label>
+        <label>国・地域<select id="country" disabled></select></label>
+        <label>地方<select id="region" disabled></select></label>
+        <label>行政区分<select id="area" disabled></select></label>
+        <label class="archive"><input id="archive" type="checkbox" disabled> 統合・除外済みを含める</label>
+      </form>
+      <p id="count" role="status">調査データを読み込み中</p>
+      <div id="results" class="results"></div>
+    </section>
+    <footer><details><summary>調査データの変更履歴</summary><ul id="history"></ul></details></footer>
+  </main>
+</body>
+</html>

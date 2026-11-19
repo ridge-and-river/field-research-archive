@@ -1,0 +1,2523 @@
+[
+  {
+    "id": "SEA-01-01",
+    "name": "元和台海浜公園",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "乙部町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search1",
+      "turn444520search3",
+      "turn444520search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-01-02",
+    "name": "折戸浜",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "松前町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search1",
+      "turn444520search3",
+      "turn444520search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-01-03",
+    "name": "川下海浜施設・浜益",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "石狩市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search1",
+      "turn444520search3",
+      "turn444520search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-02-01",
+    "name": "合浦海水浴場",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "青森県",
+    "locality": "青森市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search48",
+      "turn444520search27"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-02-02",
+    "name": "鰺ヶ沢海水浴場",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "青森県",
+    "locality": "鰺ヶ沢町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search48",
+      "turn444520search27"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-02-03",
+    "name": "白浜海水浴場",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "青森県",
+    "locality": "八戸市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search48",
+      "turn444520search27"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-03-01",
+    "name": "種市海浜公園",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "岩手県",
+    "locality": "洋野町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search2",
+      "turn444520search29",
+      "turn444520search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-03-02",
+    "name": "浄土ヶ浜",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "岩手県",
+    "locality": "宮古市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search2",
+      "turn444520search29",
+      "turn444520search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-03-03",
+    "name": "根浜海岸",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "岩手県",
+    "locality": "釜石市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search2",
+      "turn444520search29",
+      "turn444520search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-04-01",
+    "name": "小田の浜",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "宮城県",
+    "locality": "東松島市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search7",
+      "turn444520search16",
+      "turn444520search21",
+      "turn444520search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "後続の検証報告では、宮城県の観光資料に掲載されている「小田の浜」は気仙沼市大島に所在し、元データの東松島市との地点同一性は要確認とされた。",
+        "sources": [
+          {
+            "title": "宮城まるごと探訪「小田の浜」",
+            "url": "https://www.miyagi-kankou.or.jp/theme/detail.php?id=17918"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SEA-04-02",
+    "name": "菖蒲田浜",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "宮城県",
+    "locality": "七ヶ浜町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search7",
+      "turn444520search16",
+      "turn444520search21",
+      "turn444520search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-04-03",
+    "name": "大谷海岸",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "宮城県",
+    "locality": "気仙沼市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn444520search7",
+      "turn444520search16",
+      "turn444520search21",
+      "turn444520search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-05-01",
+    "name": "釜谷浜",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "秋田県",
+    "locality": "三種町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search4",
+      "turn252148search13",
+      "turn252148search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-05-02",
+    "name": "宮沢海水浴場",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "秋田県",
+    "locality": "男鹿市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search4",
+      "turn252148search13",
+      "turn252148search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-05-03",
+    "name": "本荘マリーナ周辺海岸",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "秋田県",
+    "locality": "由利本荘市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search4",
+      "turn252148search13",
+      "turn252148search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-06-01",
+    "name": "飛島の海岸",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "山形県",
+    "locality": "酒田市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn993746view1"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-06-02",
+    "name": "湯野浜海水浴場",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "山形県",
+    "locality": "鶴岡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn993746view1"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-06-03",
+    "name": "マリンパークねずがせき",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "山形県",
+    "locality": "鶴岡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn993746view1"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-07-01",
+    "name": "薄磯",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "福島県",
+    "locality": "いわき市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search49",
+      "turn993746view2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-07-02",
+    "name": "勿来",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "福島県",
+    "locality": "いわき市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search49",
+      "turn993746view2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-07-03",
+    "name": "原釜・尾浜",
+    "countryCode": "JP",
+    "region": "東北",
+    "adminArea": "福島県",
+    "locality": "相馬市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search49",
+      "turn993746view2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-08-01",
+    "name": "磯原二ツ島",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "茨城県",
+    "locality": "北茨城市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn965841search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-08-02",
+    "name": "阿字ヶ浦",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "茨城県",
+    "locality": "ひたちなか市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn965841search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-08-03",
+    "name": "大洗サンビーチ",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "茨城県",
+    "locality": "大洗町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn965841search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-09-01",
+    "name": "本須賀",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "千葉県",
+    "locality": "山武市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search0",
+      "turn252148search3",
+      "turn252148search5",
+      "turn252148search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-09-02",
+    "name": "守谷",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "千葉県",
+    "locality": "勝浦市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search0",
+      "turn252148search3",
+      "turn252148search5",
+      "turn252148search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-09-03",
+    "name": "沖ノ島",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "千葉県",
+    "locality": "館山市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search0",
+      "turn252148search3",
+      "turn252148search5",
+      "turn252148search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-10-01",
+    "name": "お台場海浜公園",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "東京都",
+    "locality": "港区",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn721861search0",
+      "turn721861search12",
+      "turn721861search30"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-10-02",
+    "name": "多幸湾・神津島",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "東京都",
+    "locality": "神津島村",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn721861search0",
+      "turn721861search12",
+      "turn721861search30"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-10-03",
+    "name": "泊海水浴場・式根島",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "東京都",
+    "locality": "新島村",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn721861search0",
+      "turn721861search12",
+      "turn721861search30"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-11-01",
+    "name": "海の公園",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "神奈川県",
+    "locality": "横浜市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn251856search6",
+      "turn251856search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-11-02",
+    "name": "片瀬西浜・鵠沼海岸",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "神奈川県",
+    "locality": "藤沢市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn251856search6",
+      "turn251856search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-11-03",
+    "name": "逗子海岸",
+    "countryCode": "JP",
+    "region": "関東",
+    "adminArea": "神奈川県",
+    "locality": "逗子市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn251856search6",
+      "turn251856search13"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-12-01",
+    "name": "瀬波温泉",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "新潟県",
+    "locality": "村上市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search6",
+      "turn252148search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-12-02",
+    "name": "日和山浜",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "新潟県",
+    "locality": "新潟市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search6",
+      "turn252148search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-12-03",
+    "name": "二ツ亀",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "新潟県",
+    "locality": "佐渡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn252148search6",
+      "turn252148search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-13-01",
+    "name": "岩瀬浜",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "富山県",
+    "locality": "富山市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search50",
+      "turn135888search15"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-13-02",
+    "name": "島尾",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "富山県",
+    "locality": "氷見市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search50",
+      "turn135888search15"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-13-03",
+    "name": "宮崎・境海岸",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "富山県",
+    "locality": "朝日町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search50",
+      "turn135888search15"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-14-01",
+    "name": "内灘海岸",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "石川県",
+    "locality": "内灘町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search48",
+      "turn866142search53"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-14-02",
+    "name": "千里浜",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "石川県",
+    "locality": "羽咋市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search48",
+      "turn866142search53"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-14-03",
+    "name": "増穂浦",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "石川県",
+    "locality": "志賀町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search48",
+      "turn866142search53"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-15-01",
+    "name": "三国サンセットビーチ",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "福井県",
+    "locality": "坂井市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search16",
+      "turn866142search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-15-02",
+    "name": "若狭和田",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "福井県",
+    "locality": "高浜町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search16",
+      "turn866142search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-15-03",
+    "name": "長井浜",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "福井県",
+    "locality": "おおい町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search16",
+      "turn866142search22"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-16-01",
+    "name": "白浜大浜",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "静岡県",
+    "locality": "下田市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-16-02",
+    "name": "熱海サンビーチ",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "静岡県",
+    "locality": "熱海市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "後続の検証報告では静岡県オープンデータに施設の代表座標（35.098541, 139.077187）の収録を確認。",
+        "sources": [
+          {
+            "title": "静岡県オープンデータ",
+            "url": "https://opendata.pref.shizuoka.jp/dataset/12708/resource/105384/content.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SEA-16-03",
+    "name": "マリンパーク御前崎",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "静岡県",
+    "locality": "御前崎市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn574973search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-17-01",
+    "name": "新舞子マリンパーク",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "愛知県",
+    "locality": "知多市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn144429search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-17-02",
+    "name": "内海",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "愛知県",
+    "locality": "南知多町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn144429search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-17-03",
+    "name": "篠島の海岸",
+    "countryCode": "JP",
+    "region": "中部",
+    "adminArea": "愛知県",
+    "locality": "南知多町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn144429search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-18-01",
+    "name": "千代崎",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "三重県",
+    "locality": "鈴鹿市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search0",
+      "turn866142search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-18-02",
+    "name": "御座白浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "三重県",
+    "locality": "志摩市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search0",
+      "turn866142search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-18-03",
+    "name": "新鹿",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "三重県",
+    "locality": "熊野市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search0",
+      "turn866142search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-19-01",
+    "name": "天橋立",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "京都府",
+    "locality": "宮津市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search9",
+      "turn866142search11",
+      "turn866142search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-19-02",
+    "name": "琴引浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "京都府",
+    "locality": "京丹後市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search9",
+      "turn866142search11",
+      "turn866142search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-19-03",
+    "name": "八丁浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "京都府",
+    "locality": "京丹後市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn866142search9",
+      "turn866142search11",
+      "turn866142search17"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-20-01",
+    "name": "二色の浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "大阪府",
+    "locality": "貝塚市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search1",
+      "turn957051search3",
+      "turn957051search7"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-20-02",
+    "name": "箱作・ぴちぴちビーチ",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "大阪府",
+    "locality": "阪南市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search1",
+      "turn957051search3",
+      "turn957051search7"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-20-03",
+    "name": "淡輪・ときめきビーチ",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "大阪府",
+    "locality": "岬町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search1",
+      "turn957051search3",
+      "turn957051search7"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-21-01",
+    "name": "須磨海岸",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "兵庫県",
+    "locality": "神戸市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search0",
+      "turn391809search2",
+      "turn391809search7",
+      "turn391809search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-21-02",
+    "name": "竹野浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "兵庫県",
+    "locality": "豊岡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search0",
+      "turn391809search2",
+      "turn391809search7",
+      "turn391809search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-21-03",
+    "name": "慶野松原",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "兵庫県",
+    "locality": "南あわじ市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search0",
+      "turn391809search2",
+      "turn391809search7",
+      "turn391809search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-22-01",
+    "name": "白良浜",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "和歌山県",
+    "locality": "白浜町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search50"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-22-02",
+    "name": "那智海岸",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "和歌山県",
+    "locality": "那智勝浦町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search50"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-22-03",
+    "name": "橋杭海水浴場",
+    "countryCode": "JP",
+    "region": "近畿",
+    "adminArea": "和歌山県",
+    "locality": "串本町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search50"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-23-01",
+    "name": "浦富",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "鳥取県",
+    "locality": "岩美町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search48",
+      "turn957051search4"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-23-02",
+    "name": "白兎",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "鳥取県",
+    "locality": "鳥取市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search48",
+      "turn957051search4"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-23-03",
+    "name": "皆生温泉",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "鳥取県",
+    "locality": "米子市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search48",
+      "turn957051search4"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-24-01",
+    "name": "北浦",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "島根県",
+    "locality": "松江市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-24-02",
+    "name": "キララビーチ",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "島根県",
+    "locality": "出雲市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-24-03",
+    "name": "レインボービーチ",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "島根県",
+    "locality": "海士町・隠岐",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn762851search49"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-25-01",
+    "name": "牛窓",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "岡山県",
+    "locality": "瀬戸内市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn524378search0",
+      "turn524378search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-25-02",
+    "name": "渋川",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "岡山県",
+    "locality": "玉野市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn524378search0",
+      "turn524378search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-25-03",
+    "name": "白石島",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "岡山県",
+    "locality": "笠岡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn524378search0",
+      "turn524378search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-26-01",
+    "name": "県民の浜",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "広島県",
+    "locality": "呉市蒲刈町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search0",
+      "turn957051search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-26-02",
+    "name": "的場",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "広島県",
+    "locality": "竹原市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search0",
+      "turn957051search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-26-03",
+    "name": "大串",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "広島県",
+    "locality": "大崎上島町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn957051search0",
+      "turn957051search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-27-01",
+    "name": "室積",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "山口県",
+    "locality": "光市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search2",
+      "turn658042search51"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-27-02",
+    "name": "虹ヶ浜",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "山口県",
+    "locality": "光市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search2",
+      "turn658042search51"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-27-03",
+    "name": "土井ヶ浜",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "山口県",
+    "locality": "下関市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search2",
+      "turn658042search51"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-28-01",
+    "name": "月見ヶ丘",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "徳島県",
+    "locality": "松茂町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search0",
+      "turn658042search5",
+      "turn658042search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-28-02",
+    "name": "小松",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "徳島県",
+    "locality": "徳島市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search0",
+      "turn658042search5",
+      "turn658042search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-28-03",
+    "name": "田井ノ浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "徳島県",
+    "locality": "美波町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search0",
+      "turn658042search5",
+      "turn658042search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-29-01",
+    "name": "津田の松原",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "香川県",
+    "locality": "さぬき市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search4",
+      "turn658042search13",
+      "turn658042search14"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-29-02",
+    "name": "一の宮海岸",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "香川県",
+    "locality": "観音寺市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search4",
+      "turn658042search13",
+      "turn658042search14"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-29-03",
+    "name": "有明浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "香川県",
+    "locality": "観音寺市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn658042search4",
+      "turn658042search13",
+      "turn658042search14"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-30-01",
+    "name": "五色浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "愛媛県",
+    "locality": "伊予市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search4",
+      "turn904334search1",
+      "turn904334search19",
+      "turn904334search20"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-30-02",
+    "name": "姫ヶ浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "愛媛県",
+    "locality": "松山市・中島",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search4",
+      "turn904334search1",
+      "turn904334search19",
+      "turn904334search20"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-30-03",
+    "name": "マリンパーク新居浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "愛媛県",
+    "locality": "新居浜市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search4",
+      "turn904334search1",
+      "turn904334search19",
+      "turn904334search20"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-31-01",
+    "name": "白浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "高知県",
+    "locality": "東洋町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search5",
+      "turn391809search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-31-02",
+    "name": "興津小室の浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "高知県",
+    "locality": "四万十町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search5",
+      "turn391809search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-31-03",
+    "name": "竜串桜浜",
+    "countryCode": "JP",
+    "region": "四国",
+    "adminArea": "高知県",
+    "locality": "土佐清水市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search5",
+      "turn391809search8"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-32-01",
+    "name": "深江",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "福岡県",
+    "locality": "糸島市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn698354search2",
+      "turn698354search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-32-02",
+    "name": "志賀島",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "福岡県",
+    "locality": "福岡市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn698354search2",
+      "turn698354search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-32-03",
+    "name": "津屋崎",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "福岡県",
+    "locality": "福津市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn698354search2",
+      "turn698354search48"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-33-01",
+    "name": "相賀の浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "佐賀県",
+    "locality": "唐津市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search3",
+      "turn343627search8",
+      "turn343627search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-33-02",
+    "name": "波戸岬",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "佐賀県",
+    "locality": "唐津市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search3",
+      "turn343627search8",
+      "turn343627search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-33-03",
+    "name": "いろは島",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "佐賀県",
+    "locality": "唐津市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search3",
+      "turn343627search8",
+      "turn343627search9"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-34-01",
+    "name": "高浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "長崎県",
+    "locality": "五島市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search2",
+      "turn343627search5",
+      "turn343627search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-34-02",
+    "name": "筒城浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "長崎県",
+    "locality": "壱岐市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search2",
+      "turn343627search5",
+      "turn343627search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-34-03",
+    "name": "大浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "長崎県",
+    "locality": "壱岐市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn343627search2",
+      "turn343627search5",
+      "turn343627search11"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-35-01",
+    "name": "御立岬公園",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "熊本県",
+    "locality": "芦北町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search6",
+      "turn391809search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-35-02",
+    "name": "茂串",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "熊本県",
+    "locality": "天草市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search6",
+      "turn391809search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-35-03",
+    "name": "四郎ヶ浜ビーチ",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "熊本県",
+    "locality": "天草市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn391809search6",
+      "turn391809search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-36-01",
+    "name": "糸ヶ浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "大分県",
+    "locality": "日出町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search0",
+      "turn920507search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-36-02",
+    "name": "黒島",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "大分県",
+    "locality": "臼杵市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search0",
+      "turn920507search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-36-03",
+    "name": "瀬会",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "大分県",
+    "locality": "佐伯市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search0",
+      "turn920507search5"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-37-01",
+    "name": "青島",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "宮崎県",
+    "locality": "宮崎市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search1",
+      "turn920507search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-37-02",
+    "name": "伊勢ヶ浜",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "宮崎県",
+    "locality": "日向市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search1",
+      "turn920507search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-37-03",
+    "name": "高松",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "宮崎県",
+    "locality": "串間市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search1",
+      "turn920507search2"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-38-01",
+    "name": "磯",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "鹿児島県",
+    "locality": "鹿児島市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search3",
+      "turn343627search4",
+      "turn343627search40"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-38-02",
+    "name": "大浜海浜公園",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "鹿児島県",
+    "locality": "奄美市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search3",
+      "turn343627search4",
+      "turn343627search40"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-38-03",
+    "name": "一湊",
+    "countryCode": "JP",
+    "region": "九州",
+    "adminArea": "鹿児島県",
+    "locality": "屋久島町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search3",
+      "turn343627search4",
+      "turn343627search40"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-39-01",
+    "name": "あざまサンサンビーチ",
+    "countryCode": "JP",
+    "region": "沖縄",
+    "adminArea": "沖縄県",
+    "locality": "南城市",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search4",
+      "turn920507search6",
+      "turn920507search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-39-02",
+    "name": "エメラルドビーチ",
+    "countryCode": "JP",
+    "region": "沖縄",
+    "adminArea": "沖縄県",
+    "locality": "本部町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search4",
+      "turn920507search6",
+      "turn920507search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  },
+  {
+    "id": "SEA-39-03",
+    "name": "阿波連ビーチ",
+    "countryCode": "JP",
+    "region": "沖縄",
+    "adminArea": "沖縄県",
+    "locality": "渡嘉敷村",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第一次候補・採水可否未確認",
+    "sourceRefs": [
+      "turn920507search4",
+      "turn920507search6",
+      "turn920507search10"
+    ],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "id": "japan",
+      "name": "日本の調査",
+      "status": "initial"
+    },
+    {
+      "id": "asia",
+      "name": "アジアの調査",
+      "status": "planned"
+    },
+    {
+      "id": "world",
+      "name": "世界の調査",
+      "status": "planned"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "日本"
+    }
+  ],
+  "topics": [
+    {
+      "id": "seawater-sampling",
+      "name": "海水採取候補"
+    }
+  ],
+  "datasets": [
+    {
+      "id": "jp-seawater-baseline",
+      "name": "海水採取候補・第一次調査",
+      "campaignId": "japan",
+      "countryCode": "JP",
+      "topicId": "seawater-sampling",
+      "path": "JP-seawater-baseline.json",
+      "sourceTitle": "japan_seawater_117_research.html"
+    }
+  ],
+  "historyPath": "history.json"
+}
