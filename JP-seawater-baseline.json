@@ -66,6 +66,93 @@
     }
   },
   {
+    "id": "SEA-01-04",
+    "name": "峰浜地区海岸（シマトツカリ川河口左岸）",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "斜里郡斜里町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第二次検証・工事区間立入禁止",
+    "sourceRefs": [],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "第二次検証（2026-11-20）｜町の告知では、2026年5月7日～12月28日の工事に伴い、シマトツカリ川河口左岸側40～230mの区間が立入禁止。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
+        "sources": [
+          {
+            "title": "斜里町｜海岸等の工事・通行止め・立入禁止",
+            "url": "https://www.town.shari.hokkaido.jp/soshikikarasagasu/suisanrinmu/suisan/fishing/4289.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SEA-01-05",
+    "name": "大栄地区海岸・美咲地区海岸",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "斜里郡斜里町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第二次検証・工事による期間・時間帯規制の記録",
+    "sourceRefs": [],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "第二次検証（2026-11-20）｜町が告知した規制期間は2026年8月1日～10月30日。期間中の月～金曜8:00～17:00は道路の通行と現地滞在が禁止。公表された規制期間は終了済みで、その後の状況は未確認。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
+        "sources": [
+          {
+            "title": "斜里町｜海岸等の工事・通行止め・立入禁止",
+            "url": "https://www.town.shari.hokkaido.jp/soshikikarasagasu/suisanrinmu/suisan/fishing/4289.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SEA-01-06",
+    "name": "知布泊漁港",
+    "countryCode": "JP",
+    "region": "北海道",
+    "adminArea": "北海道",
+    "locality": "斜里郡斜里町",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第二次検証・漁港の期間限定立入禁止",
+    "sourceRefs": [],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "第二次検証（2026-11-20）｜北海道の告知では、2026年8月1日～11月20日に関係者以外の立入を禁止。対象範囲は同告知の添付図面を参照。翌年以降の取扱いは未確認。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
+        "sources": [
+          {
+            "title": "北海道オホーツク総合振興局｜知布泊漁港の利用規制",
+            "url": "https://www.okhotsk.pref.hokkaido.lg.jp/ss/sis/chippudomari-kisei.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "SEA-02-01",
     "name": "合浦海水浴場",
     "countryCode": "JP",
@@ -200,10 +287,10 @@
     "countryCode": "JP",
     "region": "東北",
     "adminArea": "宮城県",
-    "locality": "東松島市",
+    "locality": "気仙沼市大島（中山）",
     "topicId": "seawater-sampling",
     "lifecycle": "active",
-    "researchStatus": "第一次候補・採水可否未確認",
+    "researchStatus": "第二次検証・所在地と施設案内を確認・採水可否未確認",
     "sourceRefs": [
       "turn444520search7",
       "turn444520search16",
@@ -218,11 +305,24 @@
     },
     "verificationNotes": [
       {
-        "text": "後続の検証報告では、宮城県の観光資料に掲載されている「小田の浜」は気仙沼市大島に所在し、元データの東松島市との地点同一性は要確認とされた。",
+        "text": "第二次検証（2026-11-20）｜所在地は気仙沼市大島の中山。旧登録の東松島市を訂正。2026年の海水浴場開設は7月18日～8月30日。確認した施設案内に砂浜の常時立入禁止の記載なし。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
         "sources": [
           {
-            "title": "宮城まるごと探訪「小田の浜」",
-            "url": "https://www.miyagi-kankou.or.jp/theme/detail.php?id=17918"
+            "title": "気仙沼公式観光情報｜小田の浜海水浴場",
+            "url": "https://kesennuma-kanko.jp/kodanohama/"
+          },
+          {
+            "title": "気仙沼市｜令和8年度 海水浴場開設（PDF）",
+            "url": "https://www.kesennuma.miyagi.jp/sec/s002/020/030/050/020/150/03/20260616kankou.pdf"
+          }
+        ]
+      },
+      {
+        "text": "過去の規制｜台風による遊泳禁止は2024年8月11日午後と12日終日。砂浜への立入禁止は当該告知で確認できない。",
+        "sources": [
+          {
+            "title": "気仙沼公式観光情報｜2024年8月の台風対応",
+            "url": "https://kesennuma-kanko.jp/rinjikyukanjoho/"
           }
         ]
       }
@@ -999,10 +1099,10 @@
     "countryCode": "JP",
     "region": "中部",
     "adminArea": "静岡県",
-    "locality": "熱海市",
+    "locality": "熱海市東海岸町",
     "topicId": "seawater-sampling",
     "lifecycle": "active",
-    "researchStatus": "第一次候補・採水可否未確認",
+    "researchStatus": "第二次検証・海水浴場開設期間を確認・採水可否未確認",
     "sourceRefs": [
       "turn574973search48"
     ],
@@ -1019,6 +1119,19 @@
           {
             "title": "静岡県オープンデータ",
             "url": "https://opendata.pref.shizuoka.jp/dataset/12708/resource/105384/content.html"
+          }
+        ]
+      },
+      {
+        "text": "第二次検証（2026-11-20）｜2026年の海水浴場開設は7月11日～8月30日、9:00～16:00。監視塔の旗は遊泳条件を示す。確認した案内にシーズン外の砂浜立入禁止の記載なし。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
+        "sources": [
+          {
+            "title": "熱海市｜熱海サンビーチ施設案内",
+            "url": "https://www.city.atami.lg.jp/shisetsu/bunka/1002073/1002074.html"
+          },
+          {
+            "title": "熱海公式観光情報｜2026年の開設期間と旗の案内",
+            "url": "https://ataminews.gr.jp/spot/119"
           }
         ]
       }
@@ -1550,6 +1663,39 @@
       "waterfront": null,
       "sampling": null
     }
+  },
+  {
+    "id": "SEA-24-04",
+    "name": "明屋海岸",
+    "countryCode": "JP",
+    "region": "中国",
+    "adminArea": "島根県",
+    "locality": "隠岐郡海士町豊田",
+    "topicId": "seawater-sampling",
+    "lifecycle": "active",
+    "researchStatus": "第二次検証・遊歩道立入禁止・旧海水浴場利用不可",
+    "sourceRefs": [],
+    "riverLinks": [],
+    "positions": {
+      "representative": null,
+      "waterfront": null,
+      "sampling": null
+    },
+    "verificationNotes": [
+      {
+        "text": "第二次検証（2026-11-20）｜落石のためハート岩方面の遊歩道が立入禁止。旧海水浴場エリアは利用不可。町の告知で確認できる制限は当該遊歩道と旧海水浴場エリア。参照した案内には少量採水に固有の規定の記載はなく、採水可否は未確認。",
+        "sources": [
+          {
+            "title": "海士町｜遊歩道の立入禁止と海水浴場の未開設",
+            "url": "https://www.town.ama.shimane.jp/information/798"
+          },
+          {
+            "title": "海士町｜2026年キャンプ場開設案内と規制範囲",
+            "url": "https://www.town.ama.shimane.jp/information/876"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "SEA-25-01",

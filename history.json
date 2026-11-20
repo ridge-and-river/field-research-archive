@@ -4,5 +4,47 @@
     "action": "import",
     "datasetId": "jp-seawater-baseline",
     "note": "第一次調査の候補データを既存IDのまま移行。後続の検証報告のうち、地点同一性と代表位置の特記を対象地点の注記として収録。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "update",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-04-01",
+    "note": "所在地を気仙沼市大島（中山）に訂正。台風時の遊泳禁止の年と対象を明記。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "update",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-16-02",
+    "note": "海水浴場の開設期間、監視時間、遊泳規制と砂浜アクセスの区別を追記。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "add",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-24-04",
+    "note": "第二次検証で確認した地点を追加。遊歩道立入禁止・旧海水浴場利用不可。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "add",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-01-04",
+    "note": "第二次検証で確認した地点を追加。工事区間立入禁止。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "add",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-01-05",
+    "note": "第二次検証で確認した地点を追加。工事による期間・時間帯規制の記録。"
+  },
+  {
+    "date": "2026-11-20",
+    "action": "add",
+    "datasetId": "jp-seawater-baseline",
+    "locationId": "SEA-01-06",
+    "note": "第二次検証で確認した地点を追加。漁港の期間限定立入禁止。"
   }
 ]
